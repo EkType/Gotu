@@ -1,4 +1,4 @@
-# Gotu
+![Gotu](https://github.com/EkType/Gotu/blob/master/Promotion/Gotu_header.png "Gotu")
 
 Gotu is a calligraphic Devanagari font.
 
