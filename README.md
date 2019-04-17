@@ -5,6 +5,7 @@ Rotund curves, large loops and voluminous counters. Gotu reimagines Devanagari c
 Gotu Devanagari is designed by Sarang Kulkarni and Gotu Latin by Kailash Malviya. Type design assistance and Font engineering by Maithili Shingre, Noopur Datye, and Girish Dalvi. This project is led by Ek Type, a collective of type designers based in Mumbai focused on designing contemporary Indian typefaces.
 
 This font supports the Devanagari and Google Latin Pro glyphset.
+
 --------------
 
 ## License
